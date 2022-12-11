@@ -15,7 +15,7 @@
   "author": "Miguel Croteau",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "docdash": "^1.1.1",
